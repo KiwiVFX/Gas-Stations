@@ -142,9 +142,9 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: `HippoTec App`,
-        short_name: `HippoTec App`,
-        description: `A Quasar Framework app`,
+        name: `Gas Stations App`,
+        short_name: `Gas Stations App`,
+        description: `Gas Stations app`,
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
@@ -209,7 +209,7 @@ module.exports = configure(function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'hippotec'
+        appId: 'gasstationsid'
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain

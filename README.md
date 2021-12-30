@@ -1,4 +1,4 @@
-# HippoTec App (hippotec)
+# Gas Stations App
 
 A Quasar Framework app
 
