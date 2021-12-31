@@ -3,8 +3,12 @@ export default function () {
     allGasStations: [],
     selectedStations: [],
     loading: true,
-    provider: 'paz',
-    search: ''
-    // openGasStations: [],
-  }
+    provider: "paz",
+    search: "",
+    paz: [],
+    sonol: [],
+    delek: [],
+    dor: [],
+    others: [],
+  };
 }
